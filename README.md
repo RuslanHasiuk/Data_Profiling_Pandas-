@@ -21,5 +21,5 @@ Welcome to my playground for mastering **Pandas**, **Data Cleaning**, and **Prof
 - Stored and versioned via [GitHub](https://github.com/RuslanHasiuk/Data_Profiling_Pandas-)
 
 ## 👋 Author
-**Ruslan Hasiuk** — QA + Data Quality Enthusiast  
+**Ruslan Hasiuk** — Data Quality Enthusiast  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ruslan-hasiuk/) 😉
